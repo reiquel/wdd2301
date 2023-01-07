@@ -1,11 +1,3 @@
-WebFont.load({
-    google: {
-        families: [
-            'Gugi'
-        ]
-    }
-})
-
 
 // Set the year for copyright
 document.getElementById("year").innerHTML = new Date().getFullYear()

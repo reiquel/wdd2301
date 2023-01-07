@@ -7,11 +7,20 @@
 
   body {
     margin: 0;
+    
+ 
+
   }
   
+  header {
+    align-items: center;
+    display: grid;
+    grid-template-columns: 120px auto;  
+}
   
   main {
     display: block;
+
   }
   
   
