@@ -27,7 +27,14 @@ footer {
     max-width: 750px;
 }
 
-header,
+header {
+    background-color: seagreen;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+
+}
+
 footer {
     background-color: seagreen;
     color: black;
