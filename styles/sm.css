@@ -1,4 +1,4 @@
-* {
+body, h2, header,main,footer{
     font-family: 'Gugi';
 }
 
@@ -12,6 +12,7 @@ body {
 h1 {
     text-align: center;
     font-size: 30px;
+    font-family: 'Playfair Display', serif;
     
 }
 
